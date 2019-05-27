@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace exeprojectr
+namespace exeproject
 {
   class Program
   {
     static void Main (string[] args)
     {
-      Console.WriteLine ("Tesst");
+      Console.WriteLine ("Test");
     }
   }
 }
